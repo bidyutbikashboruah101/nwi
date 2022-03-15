@@ -1,0 +1,26 @@
+*{
+    margin: 1px;
+    padding: 0;
+    text-align: center;
+}
+
+.parent{
+    background-color: rgb(87, 72, 4);
+    padding: 30px;
+    width: 300px;
+}
+
+.child{
+    background-color: chartreuse;
+    padding: 30px;
+}
+
+.box{
+    background-color: darkgreen;
+    padding: 30px;
+    border: 2px solid black;
+    border-style: dotted;
+    position: relative;
+    top: -60px;
+}
+
